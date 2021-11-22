@@ -159,7 +159,7 @@ United Nations, 2021a. Climate Action. [online] Available at: <https://www.un.or
 
 United Nations, 2021b. Climate Change. [online] Available at: <https://www.un.org/en/global-issues/climate-change> [Accessed 18 Nov. 2021].
 
-United Nations, 2021c. The Paris Agreement. [online] Available at: <https://www.un.org/en/climatechange/net-zero-coalition> [Accessed 15 Nov. 2021].
+United Nations, 2021c. The Paris Agreement. [online] Available at: <https://www.un.org/en/climatechange/paris-agreement> [Accessed 15 Nov. 2021].
 
 U.S. Department of Energy, 2019. Smart Grid: The Smart Grid | SmartGrid.gov. [online] SmartGrid.gov. Available at: <https://www.smartgrid.gov/the_smart_grid/smart_grid.html> [Accessed 21 Nov. 2021].
 
