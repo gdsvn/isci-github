@@ -29,7 +29,8 @@ The barriers to energy transition discussed earlier persist even in the Global S
 ## Conclusion
 A summary of the primary solutions discussed are shown in Figure 1 below. While barriers to decarbonisation are plentiful, so are effective solutions that are ready to be implemented.
 
-![IMG_0927](https://user-images.githubusercontent.com/94807631/142788685-9eda0c6d-280d-4abe-9cbf-a5b5e593e469.jpeg)
+![IMG_0929](https://user-images.githubusercontent.com/94807631/142788932-bdc383c5-9ef3-4ce2-89c1-c3a59b2b7b6f.jpeg)
+
 *Figure 1: Summary of the different solutions investogated that could be used to accelerate decarbonisation across the globe.*
 
 ## Works Cited
