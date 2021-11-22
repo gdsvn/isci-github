@@ -27,7 +27,7 @@ So far, the fossil fuel industry has been largely unregulated, giving corporatio
 The barriers to energy transition discussed earlier persist even in the Global South except in slightly different forms due to different social-political climates and economical situations. Innovation in green energy shows promise in these regions, although this will only be possible through fostering relationships with locals that encourages independence and self-sufficiency, along with international funding. While large scale grids are not suitable for low-income regions, micro-grids could spearhead economic development, making private investments more attractive (Duffy et al., 2018).
 
 ## Conclusion
-A summary of the primary solutions discussed are shown in Figure 1 below. While barriers to decarbonisation are plentiful, so are effective solutions that are ready to be implemented.
+In short, energy transition is a multifaceted issue requiring efforts ranging from ambitious policy changes, collaborations with diverse groups, and development of key infrastructure as summarized in Figure 1.
 
 ![IMG_0929](https://user-images.githubusercontent.com/94807631/142788932-bdc383c5-9ef3-4ce2-89c1-c3a59b2b7b6f.jpeg)
 
