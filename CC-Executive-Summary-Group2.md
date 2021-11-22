@@ -31,7 +31,7 @@ In short, energy transition is a multifaceted issue requiring efforts ranging fr
 
 ![IMG_0929](https://user-images.githubusercontent.com/94807631/142788932-bdc383c5-9ef3-4ce2-89c1-c3a59b2b7b6f.jpeg)
 
-*Figure 1: Summary of the different solutions investogated that could be used to accelerate decarbonisation across the globe.*
+*Figure 1: Summary of the different solutions investigated that could be used to accelerate decarbonisation across the globe.*
 
 ## Works Cited
 
